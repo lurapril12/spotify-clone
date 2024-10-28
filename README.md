@@ -18,9 +18,11 @@ Follow the steps below to install and run the application:
    git clone https://github.com/username/repo-name.git
 
 2. Navigate to the project directory:
+   ```bash
     cd repo-name
 
 3. Install the dependencies using:
+   ```bash
     npm install
 
 ## Running the Application
